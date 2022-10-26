@@ -2,10 +2,7 @@
 
 Some description!
 
-## Subheader
+## Additional Notes
 
-Watch tutorial on Youtube.
+Deleted subheader and added additional notes
 
-## Local Development
-
-1. Open index.html in your browser.
