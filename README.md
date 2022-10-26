@@ -2,7 +2,7 @@
 
 Some description. More description.
 
-## Additional Notes
+## Another description
 
-Deleted subheader and added additional notes
+Some text here
 
